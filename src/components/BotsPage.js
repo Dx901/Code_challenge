@@ -42,7 +42,7 @@ function BotsPage() {
         deleteBot={deleteBot}
       />
       <BotCollection
-        data={data}
+        bots={data}
         addToArmy={addBotToArmy}
         deleteBot={deleteBot}
       />
