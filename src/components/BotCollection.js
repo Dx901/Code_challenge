@@ -37,7 +37,3 @@ function BotCollection( {bots, addToArmy, deleteBot }) {
 }
 
 export default BotCollection;
-
-
-// return this.props.bots.map(bot => {
-//   return <BotCard key={bot.id} bot={bot} addBot={this.props.addBot}/>
